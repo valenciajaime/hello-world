@@ -8,5 +8,7 @@ Prueba adicional siguiendo cursera 05-17-2020
 
 Another change but in remote repo. 10:14 05-17-2020 sunday.
 
-Prueba de cambio in my pc jueves 05-28-2020
+Prueba de cambio in my pc jueves 05-28-2020(only git push)
+Prueba de cambio en remoto web jueves 05-28-2020 10:03
+
 
