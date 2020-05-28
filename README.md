@@ -6,5 +6,7 @@ Lo he editado el 6 de mayo del 2020 durante la cuarentena obligatoria del COVID1
 
 Prueba adicional siguiendo cursera 05-17-2020
 
-Another chagnge but in remote repo. 10:14 05-17-2020 sunday.
+Another change but in remote repo. 10:14 05-17-2020 sunday.
+
+Prueba de cambio in my pc jueves 05-28-2020
 
